@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "plan": "Basic",
+    "price": 20,
+    "features": [
+      "Access to gym during staffed hours",
+      "Free locker",
+      "1 complimentary fitness assessment"
+    ]
+  },
+  {
+    "id": 2,
+    "plan": "Standard",
+    "price": 35,
+    "features": [
+      "24/7 access to gym",
+      "Free locker",
+      "2 complimentary fitness assessments",
+      "Access to group classes"
+    ]
+  },
+  {
+    "id": 3,
+    "plan": "Premium",
+    "price": 50,
+    "features": [
+      "24/7 access to gym",
+      "Free locker",
+      "3 complimentary fitness assessments",
+      "Access to group classes",
+      "Access to sauna and pool",
+      "1 free personal training session per month"
+    ]
+  },
+  {
+    "id": 4,
+    "plan": "Annual Basic",
+    "price": 200,
+    "features": [
+      "Access to gym during staffed hours",
+      "Free locker",
+      "2 complimentary fitness assessments",
+      "10% discount on merchandise"
+    ]
+  },
+  {
+    "id": 5,
+    "plan": "Annual Premium",
+    "price": 500,
+    "features": [
+      "24/7 access to gym",
+      "Free locker",
+      "6 complimentary fitness assessments",
+      "Access to group classes",
+      "Access to sauna and pool",
+      "12 free personal training sessions",
+      "20% discount on merchandise"
+    ]
+  },
+  {
+    "id": 6,
+    "plan": "Student Basic",
+    "price": 15,
+    "features": [
+      "Access to gym during staffed hours",
+      "Free locker",
+      "1 complimentary fitness assessment",
+      "Discount on group classes"
+    ]
+  },
+  {
+    "id": 7,
+    "plan": "Student Premium",
+    "price": 40,
+    "features": [
+      "24/7 access to gym",
+      "Free locker",
+      "3 complimentary fitness assessments",
+      "Access to group classes",
+      "Access to sauna and pool"
+    ]
+  },
+  {
+    "id": 8,
+    "plan": "Senior Basic",
+    "price": 18,
+    "features": [
+      "Access to gym during staffed hours",
+      "Free locker",
+      "1 complimentary fitness assessment",
+      "Discount on personal training"
+    ]
+  },
+  {
+    "id": 9,
+    "plan": "Senior Premium",
+    "price": 45,
+    "features": [
+      "24/7 access to gym",
+      "Free locker",
+      "3 complimentary fitness assessments",
+      "Access to group classes",
+      "Access to sauna and pool",
+      "1 free personal training session per month"
+    ]
+  },
+  {
+    "id": 10,
+    "plan": "Corporate Basic",
+    "price": 25,
+    "features": [
+      "Access to gym during staffed hours",
+      "Free locker",
+      "2 complimentary fitness assessments",
+      "Access to group classes",
+      "10% discount on merchandise"
+    ]
+  },
+  {
+    "id": 11,
+    "plan": "Corporate Premium",
+    "price": 55,
+    "features": [
+      "24/7 access to gym",
+      "Free locker",
+      "4 complimentary fitness assessments",
+      "Access to group classes",
+      "Access to sauna and pool",
+      "2 free personal training sessions per month",
+      "20% discount on merchandise"
+    ]
+  },
+  {
+    "id": 12,
+    "plan": "Family Basic",
+    "price": 30,
+    "features": [
+      "Access to gym during staffed hours",
+      "Free locker",
+      "1 complimentary fitness assessment per member",
+      "Access to family group classes"
+    ]
+  },
+  {
+    "id": 13,
+    "plan": "Family Premium",
+    "price": 70,
+    "features": [
+      "24/7 access to gym",
+      "Free locker",
+      "3 complimentary fitness assessments per member",
+      "Access to family group classes",
+      "Access to sauna and pool",
+      "1 free personal training session per member per month"
+    ]
+  },
+  {
+    "id": 14,
+    "plan": "Weekend Warrior",
+    "price": 25,
+    "features": [
+      "Access to gym during weekends",
+      "Free locker",
+      "1 complimentary fitness assessment",
+      "Discount on group classes"
+    ]
+  },
+  {
+    "id": 15,
+    "plan": "Night Owl",
+    "price": 30,
+    "features": [
+      "24/7 access to gym",
+      "Free locker",
+      "2 complimentary fitness assessments",
+      "Access to night group classes"
+    ]
+  },
+  {
+    "id": 16,
+    "plan": "VIP",
+    "price": 100,
+    "features": [
+      "24/7 access to gym",
+      "Private locker",
+      "5 complimentary fitness assessments",
+      "Access to VIP group classes",
+      "Access to sauna and pool",
+      "4 free personal training sessions per month",
+      "30% discount on merchandise",
+      "Access to VIP lounge"
+    ]
+  },
+  {
+    "id": 17,
+    "plan": "Seasonal Pass",
+    "price": 120,
+    "features": [
+      "Access to gym during staffed hours",
+      "Free locker",
+      "1 complimentary fitness assessment",
+      "Access to seasonal group classes",
+      "10% discount on merchandise"
+    ]
+  },
+  {
+    "id": 18,
+    "plan": "Couples Pass",
+    "price": 50,
+    "features": [
+      "24/7 access to gym",
+      "Free locker",
+      "2 complimentary fitness assessments per person",
+      "Access to couples group classes",
+      "Access to sauna and pool"
+    ]
+  },
+  {
+    "id": 19,
+    "plan": "Monthly Flex",
+    "price": 40,
+    "features": [
+      "Flexible access to gym",
+      "Free locker",
+      "2 complimentary fitness assessments",
+      "Access to flexible group classes"
+    ]
+  },
+  {
+    "id": 20,
+    "plan": "Yearly Flex",
+    "price": 400,
+    "features": [
+      "Flexible access to gym",
+      "Free locker",
+      "6 complimentary fitness assessments",
+      "Access to flexible group classes",
+      "15% discount on merchandise"
+    ]
+  }
+]
