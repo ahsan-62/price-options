@@ -21,7 +21,7 @@ const Navbar = () => {
       
     return (
         <nav>
-            <div onClick={() => setOpen(!open)} className="flex mt-4 text-2xl md:hidden">
+            <div onClick={() => setOpen(!open)} className="flex items-center mt-4 text-2xl md:hidden">
             {
                 open===false ?<TbMenu2 ></TbMenu2> : <IoClose></IoClose>
             }
