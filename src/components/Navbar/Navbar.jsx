@@ -21,25 +21,23 @@ const Navbar = () => {
       
     return (
         <nav>
-            <div onClick={() => setOpen(!open)} className="text-2xl md:hidden">
+            <div onClick={() => setOpen(!open)} className="flex mt-4 text-2xl md:hidden">
             {
                 open===false ?<TbMenu2 ></TbMenu2> : <IoClose></IoClose>
-                
-
             }
-             
+
+            <h1 className="ml-2 ">Menu</h1>
              
             </div>
            
             
-           <div className="hidden md:flex">
-           <ul className="md:flex">
+        
+           <ul className={` duration-1000 md:duration-0 absolute ${open ? 'top-16' : '-top-60'} ml-8 md:ml-0 md:flex md:static  bg-yellow-400 p-6  `}>
             {
                 routes.map((route) => <Links key={route.id} route={route} ></Links>)
             }
             </ul>
-           </div>
-            
+       
         </nav>
     );
 };
