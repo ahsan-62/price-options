@@ -1,5 +1,6 @@
 
 import './App.css'
+import ChartShow from './components/ChartShow/ChartShow'
 import Navbar from './components/Navbar/Navbar'
 import Prices from './components/Prices/Prices'
 // import DaisyNav from './components/DaisyNav/DaisyNav'
@@ -13,6 +14,7 @@ function App() {
     <Navbar></Navbar>
     <main>
       <Prices></Prices>
+      <ChartShow></ChartShow>
     </main>
     </>
   )
