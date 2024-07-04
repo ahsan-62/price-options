@@ -5,7 +5,6 @@ import Feature from '../Feature/Feature';
 
 const Price = ({coursePrice}) => {
 
-    console.log(coursePrice);
     const {plan,price,features}=coursePrice;
 
    
