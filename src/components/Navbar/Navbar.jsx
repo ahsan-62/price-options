@@ -32,7 +32,7 @@ const Navbar = () => {
            
             
         
-           <ul className={` duration-1000 md:duration-0 absolute ${open ? 'top-16' : '-top-60'} ml-8 md:ml-0 md:flex md:static  bg-yellow-400 p-6  `}>
+           <ul className={` duration-1000 md:duration-0 absolute ${open ? 'top-16' : '-top-60'} ml-8 md:ml-0 md:flex md:static  bg-yellow-400 p-6 rounded-xl md:rounded-none  `}>
             {
                 routes.map((route) => <Links key={route.id} route={route} ></Links>)
             }
